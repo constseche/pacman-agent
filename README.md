@@ -6,5 +6,5 @@ The agent follows the Partial Observability Rule. Ms PacMan can only have access
 
 Find my implementation: 
 - code: examples -> MyTask -> MyPacMan
-- Behavior tree
+- BT: BehaviorTree.png
 
